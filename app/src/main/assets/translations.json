@@ -1,0 +1,586 @@
+[
+    {
+        "russian": "таинственный",
+        "english": "mysterious"
+    },
+    {
+        "russian": "утешно",
+        "english": "comfortingly"
+    },
+    {
+        "russian": "Оставь",
+        "english": "Leave"
+    },
+    {
+        "russian": "представлять",
+        "english": "submit"
+    },
+    {
+        "russian": "Стыдиться",
+        "english": "Be ashamed"
+    },
+    {
+        "russian": "хорохориться",
+        "english": "swagger"
+    },
+    {
+        "russian": "проводить / провести время",
+        "english": "spend / spend time"
+    },
+    {
+        "russian": "острый",
+        "english": "spicy"
+    },
+    {
+        "russian": "скачать",
+        "english": "download"
+    },
+    {
+        "russian": "жаловаться",
+        "english": "complain"
+    },
+    {
+        "russian": "оборудование",
+        "english": "equipment"
+    },
+    {
+        "russian": "учитывал",
+        "english": "took into account"
+    },
+    {
+        "russian": "состояние",
+        "english": "condition"
+    },
+    {
+        "russian": "чудесной",
+        "english": "miraculous"
+    },
+    {
+        "russian": "дополнение",
+        "english": "addition"
+    },
+    {
+        "russian": "неправдоподобный",
+        "english": "improbable"
+    },
+    {
+        "russian": "лютый",
+        "english": "fierce"
+    },
+    {
+        "russian": "увлечениях",
+        "english": "hobbies"
+    },
+    {
+        "russian": "последнее время",
+        "english": "Lately"
+    },
+    {
+        "russian": "щемит",
+        "english": "aches"
+    },
+    {
+        "russian": "восторг",
+        "english": "delight"
+    },
+    {
+        "russian": "выполнять",
+        "english": "fulfill"
+    },
+    {
+        "russian": "преодолевать",
+        "english": "overcome"
+    },
+    {
+        "russian": "совершенствоваться",
+        "english": "improve"
+    },
+    {
+        "russian": "Я в восторге от ",
+        "english": "I'm delighted with"
+    },
+    {
+        "russian": "Обиженный",
+        "english": "Offended"
+    },
+    {
+        "russian": "свекровь",
+        "english": "mother-in-law"
+    },
+    {
+        "russian": "Вежливый",
+        "english": "Polite"
+    },
+    {
+        "russian": "Естественно",
+        "english": "Naturally"
+    },
+    {
+        "russian": "Разумеется",
+        "english": "Of course"
+    },
+    {
+        "russian": "полностью",
+        "english": "fully"
+    },
+    {
+        "russian": "придерживаюсь",
+        "english": "stick to"
+    },
+    {
+        "russian": "верности",
+        "english": "fidelity"
+    },
+    {
+        "russian": "обратиться",
+        "english": "apply"
+    },
+    {
+        "russian": "сдержал",
+        "english": "held back"
+    },
+    {
+        "russian": "пришлось вновь",
+        "english": "had to again"
+    },
+    {
+        "russian": "пожалел",
+        "english": "regretted"
+    },
+    {
+        "russian": "разлучить",
+        "english": "separate"
+    },
+    {
+        "russian": "обычаев",
+        "english": "customs"
+    },
+    {
+        "russian": "Излечить",
+        "english": "heal"
+    },
+    {
+        "russian": "крестьянин",
+        "english": "peasant"
+    },
+    {
+        "russian": "Заставить",
+        "english": "force"
+    },
+    {
+        "russian": "Это непривычно (для меня)",
+        "english": "It's unusual (for me)"
+    },
+    {
+        "russian": "внезапно",
+        "english": "suddenly"
+    },
+    {
+        "russian": "Обжаривать кофе",
+        "english": "roast coffee"
+    },
+    {
+        "russian": "выращивать кофе",
+        "english": "grow coffee"
+    },
+    {
+        "russian": "опозорили",
+        "english": "dishonored"
+    },
+    {
+        "russian": "переврал",
+        "english": "misrepresented"
+    },
+    {
+        "russian": "хранить",
+        "english": "keep"
+    },
+    {
+        "russian": "мимо",
+        "english": "past"
+    },
+    {
+        "russian": "пожилых",
+        "english": "elderly"
+    },
+    {
+        "russian": "предотвращают старение",
+        "english": "prevent aging"
+    },
+    {
+        "russian": "развитие",
+        "english": "development"
+    },
+    {
+        "russian": "зубрёжки",
+        "english": "cramming"
+    },
+    {
+        "russian": "отвратительные просьбы",
+        "english": "disgusting requests"
+    },
+    {
+        "russian": "питание",
+        "english": "nutrition"
+    },
+    {
+        "russian": "нагрузить",
+        "english": "load"
+    },
+    {
+        "russian": "следует",
+        "english": "should"
+    },
+    {
+        "russian": "разобраться",
+        "english": "sort out"
+    },
+    {
+        "russian": "самооценка",
+        "english": "self-esteem"
+    },
+    {
+        "russian": "саморазвитие",
+        "english": "self-development"
+    },
+    {
+        "russian": "следить",
+        "english": "track"
+    },
+    {
+        "russian": "неожиданных",
+        "english": "unexpected"
+    },
+    {
+        "russian": "поддержал",
+        "english": "supported"
+    },
+    {
+        "russian": "удивляться",
+        "english": "be surprised"
+    },
+    {
+        "russian": "зверями",
+        "english": "beasts"
+    },
+    {
+        "russian": "полпути",
+        "english": "halfway"
+    },
+    {
+        "russian": "тратить",
+        "english": "spend"
+    },
+    {
+        "russian": "мешает",
+        "english": "hinders"
+    },
+    {
+        "russian": "нарушение",
+        "english": "violation"
+    },
+    {
+        "russian": "соответствовать",
+        "english": "correspond"
+    },
+    {
+        "russian": "настроению",
+        "english": "mood"
+    },
+    {
+        "russian": "предсказать",
+        "english": "predict"
+    },
+    {
+        "russian": "неотразимы",
+        "english": "irresistible"
+    },
+    {
+        "russian": "отмени",
+        "english": "cancel"
+    },
+    {
+        "russian": "пропадает",
+        "english": "disappears"
+    },
+    {
+        "russian": "надёжный",
+        "english": "reliable"
+    },
+    {
+        "russian": "правила",
+        "english": "regulations"
+    },
+    {
+        "russian": "изображено",
+        "english": "depicted"
+    },
+    {
+        "russian": "влиятельный",
+        "english": "influential"
+    },
+    {
+        "russian": "про",
+        "english": "about"
+    },
+    {
+        "russian": "разработчик",
+        "english": "developer"
+    },
+    {
+        "russian": "устроить",
+        "english": "arrange"
+    },
+    {
+        "russian": "подорожать",
+        "english": "rise in price"
+    },
+    {
+        "russian": "невозможности",
+        "english": "impossibility"
+    },
+    {
+        "russian": "попытался",
+        "english": "tried"
+    },
+    {
+        "russian": "особенно",
+        "english": "especially"
+    },
+    {
+        "russian": "полезные",
+        "english": "useful"
+    },
+    {
+        "russian": "обнаружил",
+        "english": "discovered"
+    },
+    {
+        "russian": "угодно",
+        "english": "whatever"
+    },
+    {
+        "russian": "оценили",
+        "english": "appreciated"
+    },
+    {
+        "russian": "сравно",
+        "english": "comparatively"
+    },
+    {
+        "russian": "подчеркнул",
+        "english": "emphasized"
+    },
+    {
+        "russian": "страданий",
+        "english": "suffering"
+    },
+    {
+        "russian": "замечат",
+        "english": "will notice"
+    },
+    {
+        "russian": "слезинки",
+        "english": "tears"
+    },
+    {
+        "russian": "способствующая",
+        "english": "contributing to"
+    },
+    {
+        "russian": "сдавать",
+        "english": "hand over"
+    },
+    {
+        "russian": "сохраните",
+        "english": "save"
+    },
+    {
+        "russian": "испортил",
+        "english": "ruined it"
+    },
+    {
+        "russian": "объявело",
+        "english": "announced"
+    },
+    {
+        "russian": "запустит",
+        "english": "will launch"
+    },
+    {
+        "russian": "уборка",
+        "english": "cleaning"
+    },
+    {
+        "russian": "обновляется",
+        "english": "updated"
+    },
+    {
+        "russian": "постоянно",
+        "english": "constantly"
+    },
+    {
+        "russian": "образ",
+        "english": "image"
+    },
+    {
+        "russian": "преодолеть",
+        "english": "overcome"
+    },
+    {
+        "russian": "воображением",
+        "english": "imagination"
+    },
+    {
+        "russian": "перечислила",
+        "english": "listed"
+    },
+    {
+        "russian": "бурную",
+        "english": "stormy"
+    },
+    {
+        "russian": "Преимущество",
+        "english": "Advantage"
+    },
+    {
+        "russian": "обихода",
+        "english": "everyday life"
+    },
+    {
+        "russian": "вкладывать",
+        "english": "invest"
+    },
+    {
+        "russian": "сообщение",
+        "english": "message"
+    },
+    {
+        "russian": "требует",
+        "english": "requires"
+    },
+    {
+        "russian": "выяснила",
+        "english": "found out"
+    },
+    {
+        "russian": "пожилые",
+        "english": "elderly"
+    },
+    {
+        "russian": "вредные",
+        "english": "harmful"
+    },
+    {
+        "russian": "убирайся",
+        "english": "get out"
+    },
+    {
+        "russian": "из- за которых",
+        "english": "because of which"
+    },
+    {
+        "russian": "заметно",
+        "english": "noticeably"
+    },
+    {
+        "russian": "образованному",
+        "english": "educated"
+    },
+    {
+        "russian": "Ведь именно",
+        "english": "After all, it is"
+    },
+    {
+        "russian": "круче",
+        "english": "cooler"
+    },
+    {
+        "russian": "всякий",
+        "english": "any"
+    },
+    {
+        "russian": "особ",
+        "english": "persons"
+    },
+    {
+        "russian": "товар",
+        "english": "product"
+    },
+    {
+        "russian": "подобные",
+        "english": "similar"
+    },
+    {
+        "russian": "доступно",
+        "english": "available"
+    },
+    {
+        "russian": "являются",
+        "english": "are"
+    },
+    {
+        "russian": "обыденными",
+        "english": "mundane"
+    },
+    {
+        "russian": "на самом деле",
+        "english": "in fact"
+    },
+    {
+        "russian": "добавит",
+        "english": "will add"
+    },
+    {
+        "russian": "наливают",
+        "english": "pour"
+    },
+    {
+        "russian": "для тех",
+        "english": "for those"
+    },
+    {
+        "russian": "среди прочего",
+        "english": "among other things"
+    },
+    {
+        "russian": "родом из",
+        "english": "from"
+    },
+    {
+        "russian": "изрядно",
+        "english": "considerably"
+    },
+    {
+        "russian": "впечатления",
+        "english": "impressions"
+    },
+    {
+        "russian": "поведение",
+        "english": "behavior"
+    },
+    {
+        "russian": "избавиться",
+        "english": "get rid of"
+    },
+    {
+        "russian": "хитрости",
+        "english": "tricks"
+    },
+    {
+        "russian": "to send",
+        "english": "отправлять"
+    },
+    {
+        "russian": "apply",
+        "english": "подать заявление"
+    },
+    {
+        "russian": "rake leaves",
+        "english": "грабли листья"
+    },
+    {
+        "russian": "poke",
+        "english": "тыкать"
+    }
+]
